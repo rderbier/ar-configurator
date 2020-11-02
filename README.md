@@ -10,5 +10,4 @@ When User will look at the QRCode with Hololens, the Hololens app will connect t
 ## Components
 A set of lambda functions and dynamoDB tables for the backend
 An angular 10 app for the UI (to store in S3 and expose through Cloud Front).
-
  
